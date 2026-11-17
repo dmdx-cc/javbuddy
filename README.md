@@ -1,4 +1,4 @@
-# JAVDB全能助手
+# JAV全能助手
 
 > JAVDB 一站式增强浏览器扩展：媒体库入库同步、在线播放、预告片、预览图、磁力链聚合、多站点搜索、免 VIP 榜单，即装即用。
 
@@ -49,7 +49,7 @@
 
 **安装包与完整安装教程请移步 <a href="https://github.com/dmdx-cc/JavdbBuddy/releases" target="_blank">Releases</a>** —— 每个版本附带对应平台的安装包与安装说明。
 
-也可以访问官网页面获取最新版本与介绍：**<a href="https://www.dmdx.cc/#javdbbuddy" target="_blank">JAVDB全能助手 · 官网</a>**
+也可以访问官网页面获取最新版本与介绍：**<a href="https://www.dmdx.cc/#javdbbuddy" target="_blank">JAV全能助手 · 官网</a>**
 
 ## 📇 联系方式
 
