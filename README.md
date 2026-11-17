@@ -47,7 +47,7 @@
 
 ## 📥 下载与安装
 
-**安装包与完整安装教程请移步 <a href="https://github.com/dmdx-cc/JavdbBuddy/releases" target="_blank">Releases</a>** —— 每个版本附带对应平台的安装包与安装说明。
+**安装包与完整安装教程请移步 <a href="https://github.com/dmdx-cc/javbuddy/releases" target="_blank">Releases</a>** —— 每个版本附带对应平台的安装包与安装说明。
 
 也可以访问官网页面获取最新版本与介绍：**<a href="https://www.dmdx.cc/#javdbbuddy" target="_blank">JAV全能助手 · 官网</a>**
 
@@ -58,7 +58,7 @@
 <table>
   <tr>
     <td><a href="https://www.dmdx.cc/#javdbbuddy" target="_blank"><img src="https://www.dmdx.cc/uploads/common/2026/09/032f29b7-2628-4542-8234-5fabf2fd4ec1.png" width="20" height="20" alt="官网"> 官网（代码独行）</a></td>
-    <td><a href="https://github.com/dmdx-cc/JavdbBuddy" target="_blank"><img src="assets/github.svg" width="20" height="20" alt="GitHub"> GitHub 仓库</a></td>
+    <td><a href="https://github.com/dmdx-cc/javbuddy" target="_blank"><img src="assets/github.svg" width="20" height="20" alt="GitHub"> GitHub 仓库</a></td>
     <td><a href="https://gitee.com/lfsnd/javdb-all-in-one-assistant" target="_blank"><img src="assets/gitee.svg" width="20" height="20" alt="Gitee"> Gitee 仓库</a></td>
   </tr>
   <tr>
